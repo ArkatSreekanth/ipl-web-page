@@ -1,0 +1,38 @@
+.date-text {
+  font-size: 24px;
+}
+.team-info-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px;
+}
+.match-details-container {
+  background-color: #1e293b;
+  color: #ffffff;
+  font-family: 'Bree serif';
+  border-radius: 24px;
+}
+
+.game-info {
+  width: 100%;
+  color: #ffffff;
+  font-family: 'Bree serif';
+  background-color: #1e293b;
+  margin-top: 0px;
+  padding: 12px;
+  border-top: 1px solid;
+}
+
+.details-name {
+  font-size: 20px;
+}
+
+.details-info {
+  font-size: 16px;
+}
+
+.team-logo {
+  width: 25%;
+}
